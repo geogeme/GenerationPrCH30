@@ -1,0 +1,10 @@
+/* Este es un selector de etiqueta  */
+body {
+    font-family: sans-serif;
+    background-image: url("assets/313425805_972906957000641_9189554617448272132_n.jpg");
+}
+
+h1 {
+    color: rgb(78, 187, 185);
+    text-align: center;
+}
